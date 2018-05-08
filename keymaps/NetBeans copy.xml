@@ -1,0 +1,12 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="DecrementWindowHeight" />
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="IncrementWindowHeight" />
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+</keymap>
