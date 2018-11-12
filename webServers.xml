@@ -4,7 +4,10 @@
       <webServer id="417603aa-e88c-4a18-b733-38cdc02cb65d" name="cryptox" url="http://localhost/cryptox/web/app_dev.php">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="86fd4ce9-bc6e-4431-ad07-453009120f22" name="cryptox" url="http://localhost/cryptox/">
+      <webServer id="86fd4ce9-bc6e-4431-ad07-453009120f22" name="cryptox (1)" url="http://localhost/cryptox/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="70ad5507-4f7e-4e5d-aca6-34ee45612820" name="Symfony standalone server" url="http://localhost:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
