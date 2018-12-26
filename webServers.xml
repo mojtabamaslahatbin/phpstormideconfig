@@ -10,6 +10,9 @@
       <webServer id="70ad5507-4f7e-4e5d-aca6-34ee45612820" name="Symfony standalone server" url="http://localhost:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="52d6ea68-f0b8-41f4-8f8f-5081a72818b7" name="fxglory.test_server" url="http://fxglory.test/fxpanel">
+        <fileTransfer port="0" mountedRoot="d:\wamp64\www\fxglory\fxpanel" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
