@@ -13,6 +13,9 @@
       <webServer id="52d6ea68-f0b8-41f4-8f8f-5081a72818b7" name="fxglory.test_server" url="http://fxglory.test/fxpanel">
         <fileTransfer port="0" mountedRoot="d:\wamp64\www\fxglory\fxpanel" accessType="MOUNT" />
       </webServer>
+      <webServer id="f0126a17-0698-4d2e-be26-d1e7716ca10a" name="fxglory.test" url="http://fxglory.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
