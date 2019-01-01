@@ -1,0 +1,24 @@
+<keymap version="1" name="NetBeans copy 1" parent="NetBeans 6.5">
+  <action id="Console.TableResult.CloneRow">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="DatabaseView.CopyAction">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="DecrementWindowHeight" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="RunDashboard.CopyConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="XDebugger.CopyWatch">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+</keymap>
